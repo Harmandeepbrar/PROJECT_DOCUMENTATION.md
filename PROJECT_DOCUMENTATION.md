@@ -16,11 +16,11 @@
 
 ### Harmandeep Brar:
 
--   Worked on [specific elements] of the webpage.
+-   Worked on adding images, creating repositories, sections and headings.
 
 ### Navjot kaur:
 
--   Was responsible for [specific tasks], focusing on [specific HTML elements].
+-   Was responsible for making references to different content headings and data.
 
 
 
